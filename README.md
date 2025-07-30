@@ -35,8 +35,8 @@
   <h1>Сумки 2025</h1>
   <p>Выбери, как удобно заказать:</p>
 
-  <a href="https://t.me/tvoi_sumki" class="btn btn-1">💌 Новинки в Telegram</a>
-  <a href="https://вашсайт.бел" class="btn btn-2">🌐 Заказать на сайте</a>
-  <a href="https://ссылка-на-маркетплейс" class="btn btn-3">📦 Купить на маркетплейсе</a>
+  <a href="https://t.me/beltbagminsk" class="btn btn-1">💌 Новинки в Telegram</a>
+  <a href="https://beltbag.by" class="btn btn-2">🌐 Заказать на сайте</a>
+  <a href="https://8845.emall.by" class="btn btn-3">📦 Купить на маркетплейсе</a>
 </body>
 </html>
